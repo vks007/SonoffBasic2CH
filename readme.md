@@ -26,4 +26,4 @@ Image of the modified Sonoff Basic
 
 To keep the height of the device as low as possible wrap it in a heat shrink as below. The final device is 5X7 cm in size and 22mm in height  
 
-![Finished Sonoff Basic 2CH](./sonoff2ch_finished.jpg)
+![Finished Sonoff Basic 2CH](./Sonoff2CH_finished.jpg)
